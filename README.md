@@ -81,3 +81,7 @@ Junto con el equipo se realizó un brainstorming para poder sintetizar la inform
 ---
 ###### *Proyecto desarrollado para Laboratoria*
 
+
+
+
+
