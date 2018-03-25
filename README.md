@@ -20,7 +20,7 @@ Para comenzar se definieron los stakeholdes que pueden verse involucrados en el 
 </p>
 
  <p align="center"> 
-<img src="https://image.ibb.co/fJXupn/Stakeholders.jpg">
+<img src="https://image.ibb.co/mtZDh7/Stakeholders.jpg">
 </p>
 
 Luego se realizoó la planificación de la reunión de [kick-ok](
