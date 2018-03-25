@@ -61,6 +61,10 @@ Para comenzar se realizó una [guía de entrevista](https://drive.google.com/ope
 Se entrevistaron personas nacidas entre 1980 y 1999, que llevaran al rededor de un año en su banco. Tomando en cuenta hombre y mujeres, de distintas edades, profesiones e intereses. [Registro de entrevistas](https://drive.google.com/open?id=1uzIWWgg-ljNSJb0xvMtn16ncmfd_HPF4).
 
 
+## Definición 
+
+### Síntesis de entrevistas
+Junto con el equipo se realizó un brainstorming para poder sintetizar la informacion obtenida durante la investigacion
 
 
 ---
