@@ -27,9 +27,13 @@ Luego se realizoó la planificación de la reunión de [kick-ok](https://drive.g
 
 Ya comenzando con la investigación diseñamos una propuesta de Research
 
-Revisar documentación sobre NeoBank|
-Campo A0 | 
-Campo A1 | 
+Plan de investigación|
+--|
+Revisar documentación sobre NeoBank | 
+Análisis de la competencia, nuevas tecnologías, nuevas tendencias globales y benchmark|
+Entender cuáles son los hábitos de los Millennials, sus preocupaciones, sus miedos y asociaciones que tienen los bancos o entidades financieras. Cuáles son las cosas que causan fricción a la hora de adquirir un servicio financiero|
+
+
 
 ###### *Proyecto desarrollado para Laboratoria*
 
