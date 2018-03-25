@@ -28,7 +28,6 @@ Luego se realizoó la planificación de la reunión de [kick-ok](https://drive.g
 Ya comenzando con la investigación diseñamos una propuesta de Research
 
 Revisar documentación sobre NeoBank|
--- |
 Campo A0 | 
 Campo A1 | 
 
