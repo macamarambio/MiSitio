@@ -1,7 +1,7 @@
 ![alt text](https://image.ibb.co/dypAen/Captura_de_pantalla_2018_03_25_a_la_s_11_37_48_a_m.png)
 
 ## Banco para Millennials
-Aplicación móvil bancaria enfocada a jóvenes
+El banco MI PAIS actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millenials
 
 ### Objetivos
 * Identificar quiénes son los stakeholders 
@@ -12,12 +12,8 @@ Aplicación móvil bancaria enfocada a jóvenes
 * Hacer sesiones de testing
 * Iterar y concluir
 
-### Planificación
 
-Al comenzar lo primero fue estructurar el proyecto, definir la metodología a utilizar y organizar las tareas en un período de 2 semanas de trabajo.
- <p align="center"> 
-<img src="https://image.ibb.co/cwSwKn/Captura_de_pantalla_2018_03_25_a_la_s_12_33_33_p_m.png">
-</p>
+Para comenzar se definieron los stakeholdes que pueden verse afetados 
 
 
 
