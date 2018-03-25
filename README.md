@@ -46,6 +46,12 @@ Y de los principales bancos del país, analizando sus páginas web y aplicacione
 <img src="https://image.ibb.co/nR1XaS/bancos.jpg">
 </p>
 
+Con la información obtenida de generó un Business Model Canvas, 
+
+ <p align="center"> 
+<img src="https://image.ibb.co/ikWhs7/Business_Model_Canvas.jpg">
+</p>
+
 
 
 ###### *Proyecto desarrollado para Laboratoria*
