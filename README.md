@@ -41,18 +41,28 @@ Se realizó un benchmark de algunos de los bancos enfocados a jovenes que existe
 <img src="https://image.ibb.co/epGOFS/Captura_de_pantalla_2018_03_25_a_la_s_12_29_38_p_m.png">
 </p>
 
-Y de los principales bancos del país, analizando sus páginas web y aplicaciones móviles
+Y de los principales bancos del país, analizando sus páginas web y aplicaciones móviles, pudiendo sacar ideas valiosas de negocios para nuestra banca
  <p align="center"> 
 <img src="https://image.ibb.co/nR1XaS/bancos.jpg">
 </p>
 
-Con la información obtenida de generó un Business Model Canvas, 
+Con la información obtenida de generó un Business Model Canvas, para aclarar formas de ingreso, segmento de mercado más específico y una propuesta de valor más clara.  
 
  <p align="center"> 
 <img src="https://image.ibb.co/ikWhs7/Business_Model_Canvas.jpg">
 </p>
 
+---
+
+### Entrevistas
+
+Para comenzar se realizó una [guía de entrevista](https://drive.google.com/open?id=1iOQCXHDOWh9fp9yTROygM0sss5xHcCdCygwp5buTwh4), para conocer el perfil de nuestros usuarios, su nivel digital, manejo de aplicaciones móviles, y entender las motivaciones de los clientes jóvenes del banco, para identificar que esperan del servicio que les entreguemos. 
+
+Se entrevistaron personas nacidas entre 1980 y 1999, que llevaran al rededor de un año en su banco. Tomando en cuenta hombre y mujeres, de distintas edades, profesiones e intereses. [Registro de entrevistas](https://drive.google.com/open?id=1uzIWWgg-ljNSJb0xvMtn16ncmfd_HPF4).
 
 
+
+
+---
 ###### *Proyecto desarrollado para Laboratoria*
 
