@@ -12,6 +12,7 @@ El banco MI PAIS actualmente está pasando por un proceso de transformación dig
 * Hacer sesiones de testing
 * Iterar y concluir
 
+---
 
 Para comenzar se definieron los stakeholdes que pueden verse involucrados en el nuevo proyecto, agrupandolos en un Stakeholders Map, identificando cuales son stakehoders internos y externos. Además para organizarlos de mejor manera de posicionaron los stakeholders más influyentes en una Matriz de Poder/Interés. 
 
@@ -23,7 +24,7 @@ Para comenzar se definieron los stakeholdes que pueden verse involucrados en el 
 <img src="https://image.ibb.co/mtZDh7/Stakeholders.jpg">
 </p>
 
-Luego se realizoó la planificación de la reunión de [kick-ok](https://drive.google.com/open?id=17GpEl5rCrAO0SZoTLBX9HPohX_bUfD1uWbEj8xMZRIw)con el objetivo de resolver dudas, y conocer objetivos de nuestros Stakeholders, para iniciar con la investigación. 
+Luego se realizoó la planificación de la reunión de [kick-ok](https://drive.google.com/open?id=17GpEl5rCrAO0SZoTLBX9HPohX_bUfD1uWbEj8xMZRIw), con el objetivo de resolver dudas, y conocer objetivos de nuestros Stakeholders, para iniciar con la investigación. 
 
 Ya comenzando con la investigación diseñamos una propuesta de Research
 
