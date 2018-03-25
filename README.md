@@ -23,7 +23,14 @@ Para comenzar se definieron los stakeholdes que pueden verse involucrados en el 
 <img src="https://image.ibb.co/mtZDh7/Stakeholders.jpg">
 </p>
 
-Luego se realizoó la planificación de la reunión de [kick-ok](
+Luego se realizoó la planificación de la reunión de [kick-ok](https://drive.google.com/open?id=17GpEl5rCrAO0SZoTLBX9HPohX_bUfD1uWbEj8xMZRIw)con el objetivo de resolver dudas, y conocer objetivos de nuestros Stakeholders, para iniciar con la investigación. 
+
+Ya comenzando con la investigación diseñamos una propuesta de Research
+
+Cabecera A | Cabecera B
+-- | --
+Campo A0 | Campo B0
+Campo A1 | Campo B1
 
 ###### *Proyecto desarrollado para Laboratoria*
 
