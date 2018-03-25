@@ -27,10 +27,10 @@ Luego se realizoó la planificación de la reunión de [kick-ok](https://drive.g
 
 Ya comenzando con la investigación diseñamos una propuesta de Research
 
-Cabecera A | Cabecera B
--- | --
-Campo A0 | Campo B0
-Campo A1 | Campo B1
+Cabecera A | 
+-- |
+Campo A0 | 
+Campo A1 | 
 
 ###### *Proyecto desarrollado para Laboratoria*
 
