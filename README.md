@@ -32,6 +32,10 @@ Plan de investigación|
 Revisar documentación sobre NeoBank | 
 Análisis de la competencia, nuevas tecnologías, nuevas tendencias globales y benchmark|
 Entender cuáles son los hábitos de los Millennials, sus preocupaciones, sus miedos y asociaciones que tienen los bancos o entidades financieras. Cuáles son las cosas que causan fricción a la hora de adquirir un servicio financiero|
+Hacer entrevistas con usuarios, usando metodologías de diseño centrado en ellos. Salir a terreno para entender cómo las personas usan el dinero y su comportamiento financiero|
+Sintetizar los hallazgos|
+Definir principales problemáticas a resolver|
+
 
 
 
