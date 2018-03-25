@@ -41,6 +41,12 @@ Se realizó un benchmark de algunos de los bancos enfocados a jovenes que existe
 <img src="https://image.ibb.co/epGOFS/Captura_de_pantalla_2018_03_25_a_la_s_12_29_38_p_m.png">
 </p>
 
+Y de los principales bancos del país, analizando sus páginas web y aplicaciones móviles
+ <p align="center"> 
+<img src="https://image.ibb.co/nR1XaS/bancos.jpg
+">
+</p>
+
 
 
 ###### *Proyecto desarrollado para Laboratoria*
