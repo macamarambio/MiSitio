@@ -15,7 +15,7 @@ Aplicación móvil bancaria enfocada a jóvenes
 ### Planificación
 
  <p align="center"> 
-<img src="https://image.ibb.co/eyXtX7/Captura_de_pantalla_2018_03_25_a_la_s_12_22_19_p_m.png">
+<img src="https://image.ibb.co/fdzXs7/Tutti_Frutti.jpg">
 </p>
 
 ###### *Proyecto desarrollado para Laboratoria*
