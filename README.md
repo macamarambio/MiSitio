@@ -24,7 +24,7 @@ Para comenzar se definieron los stakeholdes que pueden verse involucrados en el 
 <img src="https://image.ibb.co/mtZDh7/Stakeholders.jpg">
 </p>
 
-Luego se realizoó la planificación de la reunión de [kick-ok](https://drive.google.com/open?id=17GpEl5rCrAO0SZoTLBX9HPohX_bUfD1uWbEj8xMZRIw), con el objetivo de resolver dudas, y conocer objetivos de nuestros Stakeholders, para iniciar con la investigación. 
+Luego se realizó la planificación de la reunión de [kick-ok](https://drive.google.com/open?id=17GpEl5rCrAO0SZoTLBX9HPohX_bUfD1uWbEj8xMZRIw), con el objetivo de resolver dudas, y conocer objetivos de nuestros Stakeholders, para iniciar con la investigación. 
 
 Ya comenzando con la investigación diseñamos una propuesta de Research
 
@@ -37,6 +37,8 @@ Hacer entrevistas con usuarios, usando metodologías de diseño centrado en ello
 Sintetizar los hallazgos|
 Definir principales problemáticas a resolver|
 
+### Benchmark 
+
 Se realizó un benchmark de algunos de los bancos enfocados a jovenes que existen actualmente a nivel mundial.
  <p align="center"> 
 <img src="https://image.ibb.co/epGOFS/Captura_de_pantalla_2018_03_25_a_la_s_12_29_38_p_m.png">
@@ -46,6 +48,8 @@ Y de los principales bancos del país, analizando sus páginas web y aplicacione
  <p align="center"> 
 <img src="https://image.ibb.co/nR1XaS/bancos.jpg">
 </p>
+
+### Business Model Canvas
 
 Con la información obtenida de generó un Business Model Canvas, para aclarar formas de ingreso, segmento de mercado más específico y una propuesta de valor más clara.  
 
