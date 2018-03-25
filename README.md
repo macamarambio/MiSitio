@@ -26,7 +26,11 @@ Para comenzar se definieron los stakeholdes que pueden verse involucrados en el 
 
 Luego se realizó la planificación de la reunión de [kick-ok](https://drive.google.com/open?id=17GpEl5rCrAO0SZoTLBX9HPohX_bUfD1uWbEj8xMZRIw), con el objetivo de resolver dudas, y conocer objetivos de nuestros Stakeholders, para iniciar con la investigación. 
 
+### Plan de investigación
+
 Ya comenzando con la investigación diseñamos una propuesta de Research
+
+
 
 Plan de investigación|
 --|
@@ -36,6 +40,8 @@ Entender cuáles son los hábitos de los Millennials, sus preocupaciones, sus mi
 Hacer entrevistas con usuarios, usando metodologías de diseño centrado en ellos. Salir a terreno para entender cómo las personas usan el dinero y su comportamiento financiero|
 Sintetizar los hallazgos|
 Definir principales problemáticas a resolver|
+
+
 
 ### Benchmark 
 
