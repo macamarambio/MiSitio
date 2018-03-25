@@ -12,8 +12,11 @@ Aplicación móvil bancaria enfocada a jóvenes
 * Hacer sesiones de testing
 * Iterar y concluir
 
+### Planificación
 
+ <p align="center"> 
+<img src="https://image.ibb.co/eyXtX7/Captura_de_pantalla_2018_03_25_a_la_s_12_22_19_p_m.png">
+</p>
 
-
-###### Proyecto desarrollado para Laboratoria
+###### *Proyecto desarrollado para Laboratoria*
 
