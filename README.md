@@ -36,6 +36,10 @@ Hacer entrevistas con usuarios, usando metodologías de diseño centrado en ello
 Sintetizar los hallazgos|
 Definir principales problemáticas a resolver|
 
+Se realizó un benchmark de algunos de los bancos enfocados a jovenes que existen actualmente a nivel mundial.
+ <p align="center"> 
+<img src="https://image.ibb.co/epGOFS/Captura_de_pantalla_2018_03_25_a_la_s_12_29_38_p_m.png">
+</p>
 
 
 
