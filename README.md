@@ -80,8 +80,21 @@ Se entrevistaron personas nacidas entre 1980 y 1999, que llevaran al rededor de 
 ## Definición 
 
 ### Síntesis de entrevistas
-Junto con el equipo se realizó un brainstorming para poder sintetizar la informacion obtenida durante la investigacion
+
+Junto con el equipo se realizó un brainstorming para poder sintetizar la información obtenida durante la investigación
+
 ![sintesis](https://image.ibb.co/iwpd27/Sintesis_de_las_entrevistas.jpg)
+
+Para luego agrupar los principales hallazgos, agrupando en que es lo que más les gusta y no les gusta, para poder definir que es lo que quieren o buscan nuestros usuarios.
+
+![hallazgos](https://image.ibb.co/dBSes7/Resumen_que_quieren_1.jpg)
+
+### Arquetipos
+
+Como parte de la definición, y ya entendiendo los principales problemas de los usuarios, como parte de los requerimientos se creó solo un User Persona en base a los principales patrones identificados en la investigación, dando prioridad al problema de falta de comprensión de la información sobre los productos financieros del banco, abarcando los demás problemas en menor nivel. 
+![persona](https://image.ibb.co/cmFhC7/User_Persona_banco.jpg)
+
+
 
 ---
 *Proyecto desarrollado para Laboratoria por [Macarena Marambio](https://macamarambio.github.io/)*
