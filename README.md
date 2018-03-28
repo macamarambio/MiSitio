@@ -129,15 +129,16 @@ Ya con las posibles soluciones definidas generamos la propuesta de valorn de nue
 Ya con las características de nuestro MVP, comenzamos a realizar los primeros sketchs. Definiendo el flujo de la aplicación.
 
 ![scketch1](https://image.ibb.co/jnLLZn/Sketch_1.jpg)
-![userflow](https://preview.ibb.co/cQYw77/User_flow.jpg)
+
+ <p align="center"> 
+<img src="https://preview.ibb.co/cQYw77/User_flow.jpg">
+</p>
 
 En un comienzo planteamos utilizar tecnicas de *"Gamification"* para hacer la aplicación más atractiva para los clientes y conseguir que ellos quieran seguir utilizándola. Realizamos un primer testeo en donde identificamos que no se entendía bien el propósito inicial, por lo que iteramos. 
 
 ![Wireframes](https://image.ibb.co/eZQOLS/Captura_de_pantalla_2018_03_28_a_la_s_7_19_43_p_m.png) 
 
-
-
-Comenzamos el prototipado en Axure, donde una vez terminado, lo testeamos con 4 de los usuarios que entrevistamos la primera vez, 
+Comenzamos el prototipado en Axure, donde una vez terminado, lo testeamos con 4 de los usuarios que entrevistamos la primera vez. 
 
 
 
