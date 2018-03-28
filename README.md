@@ -140,6 +140,10 @@ En un comienzo planteamos utilizar tecnicas de *"Gamification"* para hacer la ap
 
 Comenzamos el prototipado en Axure, donde una vez terminado, lo testeamos con 4 de los usuarios que entrevistamos la primera vez. 
 
+ <p align="center"> 
+<img src="https://image.ibb.co/nuBV0S/PROTOTYPE.jpg">
+</p>
+
 
 
 ---
