@@ -141,7 +141,7 @@ En un comienzo planteamos utilizar tecnicas de *"Gamification"* para hacer la ap
 Comenzamos el prototipado en Axure, donde una vez terminado, lo testeamos con 4 de los usuarios que entrevistamos la primera vez. 
 
  <p align="center"> 
-<img src="https://image.ibb.co/dow2En/axurebanco1.jpg">
+<img src="https://image.ibb.co/c9aR77/axurebanco1.jpg">
 </p>
 
 
