@@ -4,7 +4,7 @@ Banco enfocado en los clientes más jóvenes, los Millennials
 
 ---
 
-![alt text](https://image.ibb.co/dypAen/Captura_de_pantalla_2018_03_25_a_la_s_11_37_48_a_m.png)
+![Mi sitio](https://image.ibb.co/dypAen/Captura_de_pantalla_2018_03_25_a_la_s_11_37_48_a_m.png)
 
 ## Banco para Millennials
 El banco MI PAIS actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millenials
@@ -116,7 +116,28 @@ Solo ocupa su tarjeta de débito, tiene ganas agregar productos a su cuenta, per
 Magdalena realiza la mayoría de sus transacciones bancarias a través de la aplicación, le acomoda esta opción, puede usarla en cualquier lugar, además encuentra que la página web es lenta y se demora mucho más.  
 Ella creció con la tecnología, y esto hace que se maneje con familiaridad en estos dispositivos.*
 
+### Propuesta de valor
 
+Ya con las posibles soluciones definidas generamos la propuesta de valorn de nuestro MVP:
+
+* Dar a conocer de manera fácil los requisitos necesarios para subir de nivel en el banco. (acceder a nuevos productos)
+* Digitalizar los trámites bancarios.
+* Transmitir seguridad al usuario.
+
+## Ideación 
+
+Ya con las características de nuestro MVP, comenzamos a realizar los primeros sketchs. Definiendo el flujo de la aplicación.
+
+![scketch1](https://image.ibb.co/jnLLZn/Sketch_1.jpg)
+![userflow](https://preview.ibb.co/cQYw77/User_flow.jpg)
+
+En un comienzo planteamos utilizar tecnicas de *"Gamification"* para hacer la aplicación más atractiva para los clientes y conseguir que ellos quieran seguir utilizándola. Realizamos un primer testeo en donde identificamos que no se entendía bien el propósito inicial, por lo que iteramos. 
+
+![Wireframes](https://image.ibb.co/eZQOLS/Captura_de_pantalla_2018_03_28_a_la_s_7_19_43_p_m.png) 
+
+
+
+Comenzamos el prototipado en Axure, donde una vez terminado, lo testeamos con 4 de los usuarios que entrevistamos la primera vez, 
 
 
 
