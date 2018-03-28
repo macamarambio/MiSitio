@@ -144,13 +144,11 @@ Comenzamos el prototipado en Axure, donde una vez terminado, lo testeamos con 4 
 <img src="https://image.ibb.co/c9aR77/axurebanco1.jpg">
 </p>
 
-Seguimos testeando la aplicación con usuarios y stakeholders con el fin de validar que el flujo de la aplicación, la usabilidad y los conceptos se entenderieran de manera correcta. Después de varias iteraciones llegamos al producto final:
+Seguimos testeando la aplicación con usuarios y stakeholders con el fin de validar que el flujo de la aplicación, la usabilidad y los conceptos se entenderieran de manera correcta. Después de varias iteraciones llegamos al producto final. [Ver prototipo final en Axure RP](https://vp6y89.axshare.com/vista_splash.html).
 
  <p align="center"> 
 <img src="https://image.ibb.co/mcHjun/misitioaxure.jpg">
 </p>
-
-[Ver prototipo final](https://vp6y89.axshare.com/vista_splash.html)
 
  <p align="center"> 
 <img src="https://image.ibb.co/jG0vZn/misitiofondo.jpg">
