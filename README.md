@@ -144,7 +144,7 @@ Comenzamos el prototipado en Axure, donde una vez terminado, lo testeamos con 4 
 <img src="https://image.ibb.co/c9aR77/axurebanco1.jpg">
 </p>
 
-Seguimos testeando la aplicación con usuarios y stakeholders con el fin de validar que el flujo de la aplicación y los conceptos se entenderieran de manera correcta. Después de varias iteraciones llegamos al producto final:
+Seguimos testeando la aplicación con usuarios y stakeholders con el fin de validar que el flujo de la aplicación, la usabilidad y los conceptos se entenderieran de manera correcta. Después de varias iteraciones llegamos al producto final:
 
  <p align="center"> 
 <img src="https://image.ibb.co/mcHjun/misitioaxure.jpg">
@@ -152,14 +152,12 @@ Seguimos testeando la aplicación con usuarios y stakeholders con el fin de vali
 
 [Ver prototipo final](https://vp6y89.axshare.com/vista_splash.html)
 
-![misitio](https://image.ibb.co/jG0vZn/misitiofondo.jpg)
+ <p align="center"> 
+<img src="https://image.ibb.co/jG0vZn/misitiofondo.jpg">
+</p>
 
-Trabajamos  con la metodología Lean Ux, refinar de manera progresiva, rápida y eficiente la oferta de valor para los usuarios.
 
-Creamos una hipótesis, la validamos, testeamos la usabilidad. Ya que teníamos conocimiento de la forma en que pensaban los usuarios, pudimos modificar el diseño, realizando los cambios correspondientes para obtener un producto mínimo viable (MVP).
-Finalmente lo testeamos nuevamente. Pudimos entender el modelo de negocio, la rigurosidad con la que se aplican ciertas técnicas de UX, muchas veces puede hacer más difícil proveer respuestas rápidas y valiosas.
 
-No es otra cosa que hacer todo esto más rápido.
 
 
 
