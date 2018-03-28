@@ -96,7 +96,9 @@ Como parte de la definición, y ya entendiendo los principales problemas de los 
 
 ### Problem Statement / HMW / What if?
 
-![paintpoint](https://image.ibb.co/cRXtkS/Captura_de_pantalla_2018_03_28_a_la_s_1_44_50_a_m.png)
+ <p align="center"> 
+<img src="https://image.ibb.co/cRXtkS/Captura_de_pantalla_2018_03_28_a_la_s_1_44_50_a_m.png">
+</p>
 
 
 ### Storytelling
