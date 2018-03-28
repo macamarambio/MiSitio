@@ -150,5 +150,18 @@ Seguimos testeando la aplicación con usuarios y stakeholders con el fin de vali
 <img src="https://image.ibb.co/mcHjun/misitioaxure.jpg">
 </p>
 
+[Ver prototipo final](https://vp6y89.axshare.com/vista_splash.html)
+
+![misitio](https://image.ibb.co/jG0vZn/misitiofondo.jpg)
+
+Trabajamos  con la metodología Lean Ux, refinar de manera progresiva, rápida y eficiente la oferta de valor para los usuarios.
+
+Creamos una hipótesis, la validamos, testeamos la usabilidad. Ya que teníamos conocimiento de la forma en que pensaban los usuarios, pudimos modificar el diseño, realizando los cambios correspondientes para obtener un producto mínimo viable (MVP).
+Finalmente lo testeamos nuevamente. Pudimos entender el modelo de negocio, la rigurosidad con la que se aplican ciertas técnicas de UX, muchas veces puede hacer más difícil proveer respuestas rápidas y valiosas.
+
+No es otra cosa que hacer todo esto más rápido.
+
+
+
 ---
 *Proyecto desarrollado para Laboratoria por [Macarena Marambio](https://macamarambio.github.io/)*
