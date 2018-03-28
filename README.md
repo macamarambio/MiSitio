@@ -81,7 +81,7 @@ Se entrevistaron personas nacidas entre 1980 y 1999, que llevaran al rededor de 
 
 ### Síntesis de entrevistas
 Junto con el equipo se realizó un brainstorming para poder sintetizar la informacion obtenida durante la investigacion
-
+![sintesis](https://image.ibb.co/iwpd27/Sintesis_de_las_entrevistas.jpg)
 
 ---
 *Proyecto desarrollado para Laboratoria por [Macarena Marambio](https://macamarambio.github.io/)*
