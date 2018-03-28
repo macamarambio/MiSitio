@@ -84,7 +84,7 @@ Junto con el equipo se realizó un brainstorming para poder sintetizar la inform
 
 
 ---
-###### *Proyecto desarrollado para Laboratoria*
+*Proyecto desarrollado para Laboratoria por [Macarena Marambio](macamarambio.github.io)*
 
 
 
