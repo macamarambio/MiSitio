@@ -94,6 +94,22 @@ Para luego agrupar los principales hallazgos, agrupando en que es lo que más le
 Como parte de la definición, y ya entendiendo los principales problemas de los usuarios, como parte de los requerimientos se creó solo un User Persona en base a los principales patrones identificados en la investigación, dando prioridad al problema de falta de comprensión de la información sobre los productos financieros del banco, abarcando los demás problemas en menor nivel. 
 ![persona](https://image.ibb.co/cmFhC7/User_Persona_banco.jpg)
 
+### Problem Statement / HMW / What if?
+
+![paintpoint](https://image.ibb.co/cRXtkS/Captura_de_pantalla_2018_03_28_a_la_s_1_44_50_a_m.png)
+
+
+### Storytelling
+
+*Magdalena, es una joven de 25 años, hace un tiempo consiguió su primer trabajo y tiene una cuenta en el banco hace 1 año, eligio su banco por que no le cobran mantención, a ella no le gusta pagar por las cosas que no le agreguen valor. 
+Ella aspira a poder usar su propia cuenta de netflix y no tener que estar consiguiendose la de sus amigos, también le gustaria poder comprar productos en el extranjero, y quizás a futuro poder comprarse su propio departamento. 
+Solo ocupa su tarjeta de débito, tiene ganas agregar productos a su cuenta, pero no sabe los requisitos tiene que tener para eso. Ha intentado un par de veces averiguarlo por la página web de su banco, pero al no encontrar la información rapidamente se frustra y comienza a realizar otra actividad. Tiene pensado comunicarse con su ejecutiva para preguntarle sobre los requisitos, pero aún no encuentra el momento indicado para llamarla. 
+
+Magdalena realiza la mayoría de sus transacciones bancarias a través de la aplicación, le acomoda esta opción, puede usarla en cualquier lugar, además encuentra que la página web es lenta y se demora mucho más.  
+Ella creció con la tecnología, y esto hace que se maneje con familiaridad en estos dispositivos.*
+
+A partir de esto nos hicimos la pregunta *¿Cómo podríamos dar a conocer de manera fácil los requisitos necesarios?*
+
 
 
 ---
