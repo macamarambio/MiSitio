@@ -2,9 +2,9 @@
 
 Banco enfocado en los clientes más jóvenes, los Millennials
 
----
-
 ![Mi sitio](https://image.ibb.co/dypAen/Captura_de_pantalla_2018_03_25_a_la_s_11_37_48_a_m.png)
+
+---
 
 ## Banco para Millennials
 El banco MI PAIS actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes. Por lo que, inspirados en Nequi, Nubank y Simple se han propuesto crear un banco 100% digital dirigido para millenials
@@ -144,7 +144,11 @@ Comenzamos el prototipado en Axure, donde una vez terminado, lo testeamos con 4 
 <img src="https://image.ibb.co/c9aR77/axurebanco1.jpg">
 </p>
 
+Seguimos testeando la aplicación con usuarios y stakeholders con el fin de validar que el flujo de la aplicación y los conceptos se entenderieran de manera correcta. Después de varias iteraciones llegamos al producto final:
 
+ <p align="center"> 
+<img src="https://image.ibb.co/mcHjun/misitioaxure.jpg">
+</p>
 
 ---
 *Proyecto desarrollado para Laboratoria por [Macarena Marambio](https://macamarambio.github.io/)*
