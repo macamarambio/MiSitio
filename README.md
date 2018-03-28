@@ -95,6 +95,10 @@ Como parte de la definición, y ya entendiendo los principales problemas de los 
 ![persona](https://image.ibb.co/cmFhC7/User_Persona_banco.jpg)
 
 ### Problem Statement / HMW / What if?
+Con toda la información obtenida durante la investigación pudimos identificar 5 necesidades/problemas de los usuarios, definiendo posibles ideas para cada uno de estos, que posteriormente se convertirán en oportunidades de diseño
+
+Definiendo el primer problema *"No tener información de cómo acceder a productos financieros como tarjeta de credito, creditos automotriz o hipotecario"*, como el problem statement más crítico en la experiencia del usuario. 
+A partir de esto nos hicimos la pregunta *¿Cómo podríamos dar a conocer de manera fácil los requisitos necesarios?*
 
  <p align="center"> 
 <img src="https://image.ibb.co/cRXtkS/Captura_de_pantalla_2018_03_28_a_la_s_1_44_50_a_m.png">
@@ -103,14 +107,14 @@ Como parte de la definición, y ya entendiendo los principales problemas de los 
 
 ### Storytelling
 
+Para poder entender mejor este problema, y profundizar más en las frustraciones y motivaciones relacionadas con la falta de información a la hora de querer acceder a nuevos productos bancarios, se realizó un Storytelling, pudiendo así entender de mejor manera a nuestro cliente y entregarles la mejor solución. 
+
 *Magdalena, es una joven de 25 años, hace un tiempo consiguió su primer trabajo y tiene una cuenta en el banco hace 1 año, eligio su banco por que no le cobran mantención, a ella no le gusta pagar por las cosas que no le agreguen valor. 
 Ella aspira a poder usar su propia cuenta de netflix y no tener que estar consiguiendose la de sus amigos, también le gustaria poder comprar productos en el extranjero, y quizás a futuro poder comprarse su propio departamento. 
 Solo ocupa su tarjeta de débito, tiene ganas agregar productos a su cuenta, pero no sabe los requisitos tiene que tener para eso. Ha intentado un par de veces averiguarlo por la página web de su banco, pero al no encontrar la información rapidamente se frustra y comienza a realizar otra actividad. Tiene pensado comunicarse con su ejecutiva para preguntarle sobre los requisitos, pero aún no encuentra el momento indicado para llamarla. 
 
 Magdalena realiza la mayoría de sus transacciones bancarias a través de la aplicación, le acomoda esta opción, puede usarla en cualquier lugar, además encuentra que la página web es lenta y se demora mucho más.  
 Ella creció con la tecnología, y esto hace que se maneje con familiaridad en estos dispositivos.*
-
-A partir de esto nos hicimos la pregunta *¿Cómo podríamos dar a conocer de manera fácil los requisitos necesarios?*
 
 
 
