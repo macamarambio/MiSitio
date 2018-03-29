@@ -2,6 +2,8 @@
 
 Banco enfocado en los clientes más jóvenes, los Millennials
 
+Proyecto realizado en forma colaborativa por [Macarena Marambio](https://macamarambio.github.io/)
+
 ![Mi sitio](https://image.ibb.co/dypAen/Captura_de_pantalla_2018_03_25_a_la_s_11_37_48_a_m.png)
 
 ---
